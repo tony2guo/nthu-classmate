@@ -1,0 +1,7 @@
+selenium
+pandas
+plotly
+ipykernel
+nbconvert
+nbformat # for plotly
+ngender
